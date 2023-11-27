@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 27/11/2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -49,8 +49,8 @@
 ![image](https://github.com/kanishka2305/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113497357/ded2666e-8741-417f-8158-155a5f9f68ce)
 
 
-### Name: Kanishka.V.S
-### Register Number: 212222230061
+### Name: SANJAI S
+### Register Number: 23003393
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
