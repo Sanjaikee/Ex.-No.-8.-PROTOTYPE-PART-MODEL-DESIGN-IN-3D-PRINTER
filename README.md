@@ -48,8 +48,8 @@
 ## Output:
 ![image](https://github.com/22002525karthikeyan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118708040/6bfa1846-4d4d-4cc5-a482-d97c756c875f)
 
-### Name: Karthikeyan R
-### Register Number: 212222240046
+### Name: sanjai s
+### Register Number: 23003393
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
